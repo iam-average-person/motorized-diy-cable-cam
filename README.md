@@ -1,7 +1,7 @@
  # Motorized DIY Cable Cam
 
 A self-contained motorized cable cam system built around an Arduino Nano. Designed for small cameras. In my case I use a Insta360 One RS. Features automatic end-stop reversal, variable speed control via potentiometer, and runs entirely on a LiPo battery mounted on the carriage.
-<img width="1200" height="2600" alt="Front" src="https://github.com/user-attachments/assets/63bb9812-4fa9-4628-b707-3dcacb727843" />
+<img width="1200" alt="Front" src="https://github.com/user-attachments/assets/63bb9812-4fa9-4628-b707-3dcacb727843" />
 
 ## Features
 
