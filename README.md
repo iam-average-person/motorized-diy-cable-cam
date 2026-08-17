@@ -56,9 +56,12 @@ The main sketch is in [cable_cam/cable_cam.ino](cable_cam/cable_cam.ino).
 ## Media
 
 Here are some images of my rig as well as a video showing some example results and what the setup looks like in action.
+
+[![Cable cam demo](https://img.youtube.com/vi/7-z6VbpoEs8/0.jpg)](https://www.youtube.com/watch?v=7-z6VbpoEs8)
+
 ![Frontview](media/Front.jpg)
 ![Backview](media/Back.jpg)
 ![Motor details](media/MotorDetails.jpg)
 ![Pulley details](media/PulleyDetails.jpg)
 ![Setup](media/Setup.jpg)
-![Bag clip as endstop](media/BacClipAsEndStop.jpg)
+![Bag clip as endstop](media/BagClipAsEndStop.jpg)
