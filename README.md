@@ -52,3 +52,13 @@ The main sketch is in [cable_cam/cable_cam.ino](cable_cam/cable_cam.ino).
 | A0 | Potentiometer wiper |
 | 5V | BTS7960 VCC + buck converter output |
 | GND | Shared ground rail |
+
+## Media
+
+Here are some images of my rig as well as a video showing some example results and what the setup looks like in action.
+![Frontview](media/Front.jpg)
+![Backview](media/Back.jpg)
+![Motor details](media/MotorDetails.jpg)
+![Pulley details](media/PulleyDetails.jpg)
+![Setup](media/Setup.jpg)
+![Bag clip as endstop](media/BacClipAsEndStop.jpg)
