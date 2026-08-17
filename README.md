@@ -60,9 +60,9 @@ Here are some images of my rig as well as a video showing some example results a
 V1 Cable Cam Rig Example Video
 
 [![Cable cam demo](https://img.youtube.com/vi/7-z6VbpoEs8/0.jpg)](https://www.youtube.com/watch?v=7-z6VbpoEs8)
+V1 Cable Cam Rig In Action
 
 [![Cable cam in_action](https://img.youtube.com/vi/ak_wcn9HPD8/0.jpg)](https://www.youtube.com/watch?v=ak_wcn9HPD8)
-https://www.youtube.com/shorts/ak_wcn9HPD8?feature=share
 
 Frontview
 
